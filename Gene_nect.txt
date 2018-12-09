@@ -1,0 +1,45 @@
+>19:44908683-44908684	6:33832562-33832563
+ENSG00000130203	APOE	19	44905754	44909393	protein_coding	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]
+ENSR00000320362	6	33832401	33833800	regulatory	CTCF binding site
+No-gene-correlation-results
+No-gene-correlation-results
+>19:44908683-44908684	20:47697827-47697828
+ENSG00000130203	APOE	19	44905754	44909393	protein_coding	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]
+ENSG00000196562	SULF2	20	47656348	47786616	protein_coding	sulfatase 2 [Source:HGNC Symbol;Acc:HGNC:20392]
+The String Database: None Results
+GO_REGULATION_OF_CANONICAL_WNT_SIGNALING_PATHWAY	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_CANONICAL_WNT_SIGNALING_PATHWAY
+GO_SMALL_MOLECULE_METABOLIC_PROCESS	http://www.broadinstitute.org/gsea/msigdb/cards/GO_SMALL_MOLECULE_METABOLIC_PROCESS
+GO_REGENERATION	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGENERATION
+GO_REGULATION_OF_WNT_SIGNALING_PATHWAY	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_WNT_SIGNALING_PATHWAY
+GO_REGULATION_OF_EPITHELIAL_CELL_PROLIFERATION	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_EPITHELIAL_CELL_PROLIFERATION
+GO_REGULATION_OF_MULTICELLULAR_ORGANISMAL_DEVELOPMENT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_MULTICELLULAR_ORGANISMAL_DEVELOPMENT
+GO_POSITIVE_REGULATION_OF_MULTICELLULAR_ORGANISMAL_PROCESS	http://www.broadinstitute.org/gsea/msigdb/cards/GO_POSITIVE_REGULATION_OF_MULTICELLULAR_ORGANISMAL_PROCESS
+GO_SYSTEM_PROCESS	http://www.broadinstitute.org/gsea/msigdb/cards/GO_SYSTEM_PROCESS
+GO_REGULATION_OF_ANATOMICAL_STRUCTURE_MORPHOGENESIS	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_ANATOMICAL_STRUCTURE_MORPHOGENESIS
+GO_NEGATIVE_REGULATION_OF_RESPONSE_TO_STIMULUS	http://www.broadinstitute.org/gsea/msigdb/cards/GO_NEGATIVE_REGULATION_OF_RESPONSE_TO_STIMULUS
+GO_POSITIVE_REGULATION_OF_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_POSITIVE_REGULATION_OF_TRANSPORT
+GO_REGULATION_OF_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_TRANSPORT
+GO_CELL_DEVELOPMENT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_CELL_DEVELOPMENT
+GO_REGULATION_OF_CELL_PROLIFERATION	http://www.broadinstitute.org/gsea/msigdb/cards/GO_REGULATION_OF_CELL_PROLIFERATION
+GO_NEGATIVE_REGULATION_OF_CELL_COMMUNICATION	http://www.broadinstitute.org/gsea/msigdb/cards/GO_NEGATIVE_REGULATION_OF_CELL_COMMUNICATION
+GO_EXTRACELLULAR_SPACE	http://www.broadinstitute.org/gsea/msigdb/cards/GO_EXTRACELLULAR_SPACE
+GO_GOLGI_APPARATUS	http://www.broadinstitute.org/gsea/msigdb/cards/GO_GOLGI_APPARATUS
+GO_ENDOPLASMIC_RETICULUM	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ENDOPLASMIC_RETICULUM
+>19:44908683-44908684	1:39961909-39961910
+ENSG00000130203	APOE	19	44905754	44909393	protein_coding	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]
+ENSG00000168389	MFSD2A	1	39955112	39969968	protein_coding	major facilitator superfamily domain containing 2A [Source:HGNC Symbol;Acc:HGNC:25897]
+The String Database: None Results
+GO_ION_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ION_TRANSPORT
+GO_VESICLE_MEDIATED_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_VESICLE_MEDIATED_TRANSPORT
+GO_ORGANIC_ACID_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ORGANIC_ACID_TRANSPORT
+GO_ORGANOPHOSPHATE_ESTER_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ORGANOPHOSPHATE_ESTER_TRANSPORT
+GO_ANION_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ANION_TRANSPORT
+GO_ORGANIC_ANION_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ORGANIC_ANION_TRANSPORT
+GO_MONOCARBOXYLIC_ACID_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_MONOCARBOXYLIC_ACID_TRANSPORT
+GO_PHOSPHOLIPID_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_PHOSPHOLIPID_TRANSPORT
+GO_LIPID_LOCALIZATION	http://www.broadinstitute.org/gsea/msigdb/cards/GO_LIPID_LOCALIZATION
+GO_FATTY_ACID_TRANSPORT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_FATTY_ACID_TRANSPORT
+GO_CELL_DEVELOPMENT	http://www.broadinstitute.org/gsea/msigdb/cards/GO_CELL_DEVELOPMENT
+GO_ENDOPLASMIC_RETICULUM	http://www.broadinstitute.org/gsea/msigdb/cards/GO_ENDOPLASMIC_RETICULUM
+GO_LIPID_TRANSPORTER_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/GO_LIPID_TRANSPORTER_ACTIVITY
+GO_TRANSPORTER_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/GO_TRANSPORTER_ACTIVITY
